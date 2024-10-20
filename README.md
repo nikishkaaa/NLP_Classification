@@ -49,18 +49,18 @@ There is seasonality of order 7
     <th colspan="2">RNNModel</th>
   </tr>
   <tr>
-    <th>MAPE</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>38.17%</td>
+    <td>39.91%</td>
+    <td>23.38%</td>
+    <td>39.01%</td>
+    <td>37.83%</td>
+    <td>33.30%</td>
+    <td>23.80%</td>
+    <td>31.73%</td>
   </tr>
 </table>
+
+
+## Future Work
+I would train a separate model for each product in each store, resulting in a total of 500 models (50 products * 10 stores). This approach allows for capturing the specific characteristics of sales for each product in each store, which will improve the accuracy of the forecasts.
+I would use models like XGBoost or Prophet, as they have shown the best performance. Additionally, I would fine-tune each model to achieve better results and reduce the percentage of error. From the residual analysis, we also see that there are lags that contain information not accounted for by the model.
