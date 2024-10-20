@@ -36,3 +36,31 @@ There is seasonality of order 7
 - Analysing residuals
 
 ## Results 
+
+<table>
+  <tr>
+    <th colspan="2">NaiveSeasonal</th>
+    <th colspan="2">NaieDrift</th>
+    <th colspan="2">XBGModel</th>
+    <th colspan="2">ExponentialSmoothing</th>
+    <th colspan="2">ARIMA</th>
+    <th colspan="2">AutoARIMA</th>
+    <th colspan="2">Prophet</th>
+    <th colspan="2">RNNModel</th>
+  </tr>
+  <tr>
+    <th>MAPE</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
