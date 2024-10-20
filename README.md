@@ -49,6 +49,7 @@ There is seasonality of order 7
     <th colspan="2">RNNModel</th>
   </tr>
   <tr>
+    <th colspan="2">38.17%</th>
     <td>38.17%</td>
     <td>39.91%</td>
     <td>23.38%</td>
