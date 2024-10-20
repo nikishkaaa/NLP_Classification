@@ -50,14 +50,13 @@ There is seasonality of order 7
   </tr>
   <tr>
     <th colspan="2">38.17%</th>
-    <td>38.17%</td>
-    <td>39.91%</td>
-    <td>23.38%</td>
-    <td>39.01%</td>
-    <td>37.83%</td>
-    <td>33.30%</td>
-    <td>23.80%</td>
-    <td>31.73%</td>
+    <th colspan="2">39.91%</th>
+    <th colspan="2">23.38%</th>
+    <th colspan="2">39.01%</th>
+    <th colspan="2">37.83%</th>
+    <th colspan="2">33.30%</th>
+    <th colspan="2">23.80%</th>
+    <th colspan="2">31.73%</th>
   </tr>
 </table>
 
